@@ -13,7 +13,7 @@ const FILES_TO_CACHE = [
   "/fondo.png",
   "/pipe.png",
   "/Icono.jpg",
-  "/Icono.jpg2"  
+  "/Icono.jpg2",  
   "https://cdn.jsdelivr.net/npm/phaser@3/dist/phaser.js"
 ];
 
