@@ -5,9 +5,9 @@ super("Inicio");
 }
 
 preload(){
-    this.load.image("fondo","/fondo.png");
-    this.load.image("bird","/bird1.png");
-    this.load.image("pipe","/pipe.png");
+    this.load.image("fondo","fondo.png");
+    this.load.image("bird","bird1.png");
+    this.load.image("pipe","pipe.png");
 }
 
 create(){
