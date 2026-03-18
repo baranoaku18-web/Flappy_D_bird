@@ -9,9 +9,11 @@ const FILES_TO_CACHE = [
   "/juego.js",
   "/gameover.js",
   "/manifest.json",
-  "/assets/bird1.png",
-  "/assets/fondo.png",
-  "/assets/pipe.png",  
+  "/bird1.png",
+  "/fondo.png",
+  "/pipe.png",
+  "/Icono.jpg",
+  "/Icono.jpg2"  
   "https://cdn.jsdelivr.net/npm/phaser@3/dist/phaser.js"
 ];
 
